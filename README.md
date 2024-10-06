@@ -20,7 +20,6 @@
 - Some features, like server actions, were not supported, so we had to either avoid using those features or implement workarounds.
 
 # System 
-
-
-# Demos
+![gloomap_7e9bdb8b](https://github.com/user-attachments/assets/6a6237c5-231a-47fe-9a6c-54352ab54e19)
+![sitemap](https://github.com/user-attachments/assets/40902ed6-e216-456a-9a2c-c090cc5b532f)
 
